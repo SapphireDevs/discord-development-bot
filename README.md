@@ -27,6 +27,6 @@
 
 ## Contributors ✨
 
-<a href="https://github.com/sapphiredevs/discord/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=sapphiredevs/discord" />
+<a href="https://github.com/sapphiredevs/discord-development-bot/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=sapphiredevs/discord-development-bot" />
 </a>
